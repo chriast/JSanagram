@@ -1,0 +1,11 @@
+{
+  "name": "anagram",
+  "version": "1.0.0",
+  "description": "prints a list of anagrams for a given list of words.",
+  "main": "anagram.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christopher Storvik",
+  "license": "ISC"
+}
